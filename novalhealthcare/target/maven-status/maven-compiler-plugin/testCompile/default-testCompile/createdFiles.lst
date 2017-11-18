@@ -1,0 +1,4 @@
+com\dotridge\controller\HospitalControllerTest.class
+com\dotridge\dao\HospitalDaoTest.class
+novalhealthcare\adminDomainTest.class
+com\dotridge\dao\HospitalDaoTest_Junit.class
