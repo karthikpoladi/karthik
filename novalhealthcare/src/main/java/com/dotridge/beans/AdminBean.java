@@ -8,7 +8,7 @@ public class AdminBean implements Serializable
 {
 	private static final long serialVersionUID = 1L;
 	
-	 //commentvghvjvjvjv
+	 //comment line  
 	 private String hospitalName;
 	 private int adminId;
 	 private String firstName;
